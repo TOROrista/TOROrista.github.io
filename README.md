@@ -10,6 +10,8 @@ The team consists of :
 2. [Francis Lorenz Robespierre Taberdo](https://github.com/francistaberdo)
 3. [Harlly Dela Cruz](https://github.com/bobharley)
 4. [Rannie Ollit](https://github.com/einnar82)
+5. [Iah Buenacosa](https://github.com/iahello)
+6. [Al Jeremiah Oquindo](https://github.com/aloqui)
 
 ### Current Project:
 > __MAFIA GAME__
