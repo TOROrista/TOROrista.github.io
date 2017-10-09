@@ -1,0 +1,35 @@
+/* COLORS */
+.toro-text { color: #00a9e0; }
+
+/* BANNER SECTION */
+
+#banner,
+.wallpaper,
+.overlay,
+.banner-container {
+    width: 100vw;
+    height: 80vh;
+}
+
+#banner {
+    position: relative;
+    overflow: hidden;
+}
+
+.wallpaper {
+    background-image: url('../assets/bg.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.overlay {
+    position: absolute;
+    top: 2%;
+    left: 12%;
+    width: 120vw;
+    height: 120vh;
+}
+
+.the-bull {
+    fill: #ffc107;
+}
